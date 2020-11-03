@@ -9,3 +9,5 @@ To open the project you need to:
 4. In cmd/terminal will be a link of local server, coppy that and paste in Browser.
 
 Well done!-
+
+Admin page included in this project (Login: kluv;Password:Pipka1121)
